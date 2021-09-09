@@ -17,6 +17,6 @@
         <code><img height="20" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
         <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
     </div>
-</br>
-   
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/HarshPatel5940/github-readme-stats)
