@@ -6,6 +6,4 @@
 ![Language](https://img.shields.io/badge/Intrest-Python-brightgreen)
 ![visitors](https://komarev.com/ghpvc/?username=HarshPatel5940&label=visitors)
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=HarshPatel5940&include_all_commits=True&count_private=True&show_icons=True&line_height=20">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/HarshPatel5940/github-readme-stats)
