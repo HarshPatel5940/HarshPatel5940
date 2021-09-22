@@ -9,8 +9,13 @@
   - 🟠 JavaScript
   - 🟠 MongoDB
   - 🔴 So many Things 🤡
-  - 👀 ![Profile Views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile-Views)
 
 #### 🟢 = Good in 🟠 = Learning Basics 🔴 = Not Started Learning
 
-Contact Me on [Email](mailto:harshnpatel9@gmail.com) For Anything! 
+👀 Contact Me on [Email](mailto:harshnpatel9@gmail.com) For Anything! 
+
+![Profile Views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile-Views)
+[![](https://img.shields.io/static/v1?label=HARSHPATEL&logo=github&message=Follow&color=black)](https://github.com/HarshPatel5940)
+[![](https://img.shields.io/static/v1?label=MyDiscordServer&logo=Discord&message=JoinNow&color=cyan)](https://discord.gg/WFVB3k5Dfq)
+[![](https://img.shields.io/static/v1?label=HARSHPATEL&logo=twitter&message=Follow&color=purple)](https://twitter.com/intent/follow?screen_name=HarshPatelN1)
+[![](https://img.shields.io/static/v1?label=Fiver&message=Check-my-gig&color=leafgreen)](https://www.fiverr.com/share/r90egx)
