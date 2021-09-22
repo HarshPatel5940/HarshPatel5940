@@ -13,4 +13,4 @@
 
 > Contact Me on [Email](mailto:harshnpatel9@gmail.com) For Anything!
 > 
-> Useless info ![Profile Views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=visitors)
+> Useless info ![Profile Views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile Views)
