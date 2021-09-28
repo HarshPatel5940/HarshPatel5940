@@ -5,7 +5,7 @@
   - 🟢 Python
   - 🟢 Git
   - 🟢 Postgree
-  - 🟢 MySQL
+  - 🟠 MySQL
   - 🟠 JavaScript
   - 🟠 MongoDB
   - 🔴 So many Things 🤡
