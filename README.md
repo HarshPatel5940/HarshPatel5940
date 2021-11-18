@@ -3,16 +3,16 @@
 ### Current Status : 
   - 🟢 I Can Make A Custom Discord Bot For you :)
   - 🟢 Python
-  - 🟢 Git
-  - 🟢 Postgree
-  - 🟠 MySQL
+  - 🟢 Git (VCS)
+  - 🟢 Postgree, MySQL
+  - 🟠 OOP
   - 🟠 JavaScript
   - 🟠 MongoDB
   - 🔴 So many Things 🤡
 
-#### 🟢 = Good in 🟠 = Learning Basics 🔴 = Not Started Learning
+🟢 = Good in 🟠 = Started Little Learning 🔴 = Not Started Learning
 
-👀 Contact Me on [Email](mailto:harshnpatel9@gmail.com) For Anything! 
+### 👀 Contact Me on [Discord](https://discord.com/users/448740493468106753) For Anything! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile-Views)
 [![](https://img.shields.io/static/v1?label=HARSHPATEL&logo=github&message=Follow&color=black)](https://github.com/HarshPatel5940)
