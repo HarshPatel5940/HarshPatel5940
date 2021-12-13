@@ -10,7 +10,7 @@
   - 🟠 JavaScript
   - 🔴 So many Things 🤡
 
-🟢 = Good in 🟠 = Started Little Learning 🔴 = Not Started Learning
+🟢 = Good in 🟠 = Average In 🔴 = Not Knowing
 
 ### 👀 Contact Me on Discord **HarshPatel5940#9186** For Anything! 
 
