@@ -1,5 +1,4 @@
-<h2> Hey there! I'm HARSH PATEL. <img src="https://user-images.githubusercontent.com/83941233/150628047-5cc59f7a-ccd4-4ecf-8c23-564b352ecb55.gif")
-" width="25"></h2>
+<h2> Hey there! I'm HARSH PATEL. 👋 </h2>
 
 ### Current Status : 
   - 🟢 I Can Make A Custom Discord Bot For you :)
