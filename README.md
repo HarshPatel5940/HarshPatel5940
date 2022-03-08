@@ -6,7 +6,7 @@
   - 🟢 Git (VCS)
   - 🟢 Postgree, MySQL
   - 🟠 OOP , Classes , DataClasses
-  - 🟠 WebScraping
+  - 🟠 Typescript
   - 🟠 JavaScript
   - 🔴 So many Things 🤡
 
