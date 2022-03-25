@@ -12,7 +12,7 @@
 
 🟢 = Good in 🟠 = Average In 🔴 = Not Knowing
 
-### 👀 Contact Me on Discord **HarshPatel5940#9186** For Anything! 
+### 👀 Contact Me on Discord **HarshPatel5940#3210** For Anything! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile-Views)
 [![](https://img.shields.io/static/v1?label=HARSHPATEL&logo=github&message=Follow&color=black)](https://github.com/HarshPatel5940)
