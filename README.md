@@ -4,7 +4,7 @@
   - 🟢 I Can Make A Custom Discord Bot For you :)
   - 🟢 Python
   - 🟢 Git (VCS)
-  - 🟢 Postgree, MySQL
+  - 🟢 Postgree, MySQL, Mongoose
   - 🟠 OOP , Classes , DataClasses
   - 🟠 Typescript
   - 🟠 JavaScript
