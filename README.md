@@ -10,7 +10,7 @@
 - ![](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Github-Profile-Views:&color=green)
 - Twitter Profile: [HarshPatel5940](https://twitter.com/intent/follow?screen_name=HarshPatel5940)
 - Discord Profile: [HarshPatel5940#3210](https://discord.com/users/448740493468106753) 
-- Discord Server: [Join My Duscird Server](https://discord.gg/wqJhbrwbMe)
+- Discord Server: [Join My Discord Server](https://discord.gg/wqJhbrwbMe)
 - Fiver Gig: [Check My Gig](https://www.fiverr.com/share/rprG0j) | Currently Unavailable Due to Exams
 
 ---
