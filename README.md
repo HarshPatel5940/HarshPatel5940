@@ -17,7 +17,6 @@
 ### 🔥Cool Projects
 
 - [**Discord Helper Bot**](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel. **The Bot is is not public yet due to hosting issues**
-- 
 - [**Data Handling Project**](https://github.com/HarshPatel5940/DataHandlingProject). This is a Fun School Project and it helped me exploring the world of python and other things :)
       
 ---
