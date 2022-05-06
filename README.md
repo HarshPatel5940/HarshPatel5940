@@ -1,9 +1,9 @@
 ## Hello there! I am Harsh Patel ✌️
-  - Software Freak & Tech Enthusiast
-  - Hobbies: Listening Music and exploring the tech world
   - **Discord Bot Developer**
-  - Known Languages: Python & Typescript
-  - Intrested in backend development
+  - Software Freak & Tech Enthusiast
+  - Interested in backend development
+  - *Hobbies: Listening Music and exploring the tech world*
+  - *Languages: Python & Typescript*
 
 --- 
 ### 🔗 Links or "Meta Data"
