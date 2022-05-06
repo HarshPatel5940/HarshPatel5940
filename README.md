@@ -36,10 +36,3 @@
 <a href="again, yes">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940" />
 </a>
-
----
-
-### 🏆 GitHub Profile Trophy:
-<a href="trophy indeed a yes">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=HarshPatel5940&column=8&theme=discord&no-frame=true&no-bg=true"/>
-</a>
