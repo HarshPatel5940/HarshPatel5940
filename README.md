@@ -7,7 +7,7 @@
 
 --- 
 ### 🔗 Links or "Meta Data"
-
+- ![](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Github-Profile-Views:&color=green)
 - Twitter Profile: [HarshPatel5940](https://twitter.com/intent/follow?screen_name=HarshPatel5940)
 - Discord Profile: [HarshPatel5940#3210](https://discord.com/users/448740493468106753) 
 - Discord Server: [Join My Duscird Server](https://discord.gg/wqJhbrwbMe)
@@ -21,10 +21,10 @@
       
 ---
 ### 📊 GitHub Stats:
-- Github Profile Views: ![](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Views&color=green)
+
 <a href="yes">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshPatel5940&theme=github_dark&show_icons=true&count_private=true" />
 </a>
 <a href="again, yes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940"/>
 </a>
