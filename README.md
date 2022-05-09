@@ -1,4 +1,9 @@
-## Hello there! I am Harsh Patel ✌️
+ <h1 align="center"> Hello there! I am Harsh Patel ✌️</h1>
+ <h4 align="center">  Student • Programmer • Discord Bot Developer • Python & Typescript </h4>
+ 
+ ---
+ 
+ ### ✌️Fun Things About Me
   - **Discord Bot Developer**
   - Software Freak & Tech Enthusiast
   - Interested in backend development
