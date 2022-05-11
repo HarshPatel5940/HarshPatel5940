@@ -19,7 +19,7 @@
 
 --- 
 <details>
- <summary>🔗 Essential Links </summary>
+ <summary>🔗 Social Profile Links </summary>
  <br>
 
 - Github Profile Views: ![](https://komarev.com/ghpvc/?username=HarshPatel5940&label=&color=green) 
