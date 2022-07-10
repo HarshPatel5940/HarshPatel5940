@@ -36,10 +36,25 @@ sudo dnf -yq erase *libreoffice* gnome-boxes gnome-calculator gnome-characters g
 
 flatpak install flathub -y org.libreoffice.LibreOffice org.gnome.Boxes org.gnome.Calculator org.gnome.Characters org.gnome.Calendar org.gnome.Contacts org.gnome.clocks org.gnome.Connections org.gnome.Maps org.gnome.Weather org.gnome.baobab
 
-########################### INSTALLING APPS #########################
+########################### FINAL INIT STEPS #########################
+
+sudo dnf install gparted chrome-gnome-shell gnome-extensions-app gnome-tweak-tool
+
+sudo dnf groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
+
+sudo dnf groupupdate sound-and-video
+
+=====> TIPS:
+> download extension manager
+> download some cool extensions too
+
+########################### COMPELETION #########################
+
+now reboot 
+
+sudo dnf update
+sudo dnf autoremove
+sudo dnf cleanall
 
 
-sudo dnf install chrome-gnome-shell gnome-extensions-app gnome-tweak-tool
-
-sudo dnf install gparted
 
