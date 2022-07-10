@@ -30,12 +30,16 @@ sudo dnf copr enable elxreno/preload -y && sudo dnf install preload -y
 systemctl enable preload
 
 
-########################### INSTALLING/REINSTALLING GNOME APPS #########################
-
-sudo dnf install chrome-gnome-shell gnome-extensions-app gnome-tweak-tool
+########################### REINSTALLING GNOME => flatpack APPS #########################
 
 sudo dnf -yq erase *libreoffice* gnome-boxes gnome-calculator gnome-characters gnome-calendar gnome-contacts gnome-clocks gnome-connections gnome-maps gnome-weather baobab
 
 flatpak install flathub -y org.libreoffice.LibreOffice org.gnome.Boxes org.gnome.Calculator org.gnome.Characters org.gnome.Calendar org.gnome.Contacts org.gnome.clocks org.gnome.Connections org.gnome.Maps org.gnome.Weather org.gnome.baobab
 
+########################### INSTALLING APPS #########################
+
+
+sudo dnf install chrome-gnome-shell gnome-extensions-app gnome-tweak-tool
+
+sudo dnf install gparted
 
