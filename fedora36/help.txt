@@ -38,7 +38,7 @@ flatpak install flathub -y org.libreoffice.LibreOffice org.gnome.Boxes org.gnome
 
 ########################### FINAL INIT STEPS #########################
 
-sudo dnf install gparted chrome-gnome-shell gnome-extensions-app gnome-tweak-tool
+sudo dnf install dnfdragora gparted chrome-gnome-shell gnome-extensions-app gnome-tweak-tool
 
 sudo dnf groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
 
