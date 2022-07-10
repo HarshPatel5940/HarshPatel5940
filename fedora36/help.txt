@@ -1,0 +1,41 @@
+
+############################## DNF CONFIGAURATION #############################
+
+[main]
+gpgcheck=1
+installonly_limit=3
+clean_requirements_on_remove=True
+best=False
+skip_if_unavailable=True
+
+# Custom Configauration below
+
+fastestmirror=True
+max_parallel_downloads=5
+defaultyes=True
+keepcache=True
+
+########################### PLEASE DNF UPDATE NOW ONCE #########################
+
+sudo dnf update
+
+########################### ADDING IMPORTANT REPOSITORIES #########################
+
+
+flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
+sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfree-release-$(rpm -E %fedora).noarch.rpm
+
+sudo dnf copr enable elxreno/preload -y && sudo dnf install preload -y
+systemctl enable preload
+
+
+########################### INSTALLING/REINSTALLING GNOME APPS #########################
+
+sudo dnf install chrome-gnome-shell gnome-extensions-app gnome-tweak-tool
+
+sudo dnf -yq erase *libreoffice* gnome-boxes gnome-calculator gnome-characters gnome-calendar gnome-contacts gnome-clocks gnome-connections gnome-maps gnome-weather baobab
+
+flatpak install flathub -y org.libreoffice.LibreOffice org.gnome.Boxes org.gnome.Calculator org.gnome.Characters org.gnome.Calendar org.gnome.Contacts org.gnome.clocks org.gnome.Connections org.gnome.Maps org.gnome.Weather org.gnome.baobab
+
+
