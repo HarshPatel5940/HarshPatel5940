@@ -23,7 +23,7 @@
 - Github Organisation: [ProgrammingNotCoding](https://github.com/ProgrammingNotCoding) - for private projects
 - Discord Profile: [HarshPatel5940#3210](https://discord.com/users/448740493468106753) 
 - Twitter Profile: [HarshPatel5940](https://twitter.com/intent/follow?screen_name=HarshPatel5940)
-- Fiver Profile: [HarshPatel5940](https://fiver.com/HarshPatel5940) ➡️ [Check My Gig](https://www.fiverr.com/share/rprG0j) - Currently Unavailable Due to Exams
+- Fiver Profile: [HarshPatel5940](https://fiver.com/HarshPatel5940) ➡️ [Check My Gig](https://www.fiverr.com/share/rprG0j)
  
 ---
 <details>
