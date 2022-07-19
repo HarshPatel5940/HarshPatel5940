@@ -15,6 +15,13 @@ max_parallel_downloads=5
 defaultyes=True
 keepcache=True
 
+############################## Wifi CONFIGAURATION #############################
+go to ipv4 
+turn off automatic dns
+and add the below dns service
+
+8.8.8.8, 8.8.4.4, 1.1.1.1
+
 ########################### PLEASE DNF UPDATE NOW ONCE #########################
 
 sudo dnf update
@@ -52,9 +59,10 @@ sudo dnf groupupdate sound-and-video
 
 now reboot 
 
+sudo dnf groupupdate core
 sudo dnf update
 sudo dnf autoremove
 sudo dnf cleanall
 
-
+now reboot 
 
