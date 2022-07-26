@@ -2,8 +2,9 @@
  <h4 align="center">  Student • Programmer • Discord Bot Developer • Python & Typescript • Free-Lancer </h4>
  
  ---
- ### ✌️Fun Things About Me
+ ### ✌️ Fun Things About Me
  
+  - 18 y/o
   - **Discord Bot Developer**
   - Software Freak & Tech Enthusiast
   - Interested in backend development
@@ -11,9 +12,9 @@
   - *Languages: Python & Typescript*
 
 ---
-### 🔥Cool Projects 
+### 🔥 Cool Projects 
  
-  - [**Discord Helper Bot**](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel. **The Bot is is not public yet due to hosting issues**
+  - [**Discord Helper Bot**](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel.
   - [**Data Handling Project**](https://github.com/HarshPatel5940/DataHandlingProject) is a Fun School Project and it helped me exploring the world of python and other things :)
 
 --- 
