@@ -22,12 +22,7 @@ and add the below dns service
 
 8.8.8.8, 8.8.4.4, 1.1.1.1
 
-########################### PLEASE DNF UPDATE NOW ONCE #########################
-
-sudo dnf update
-
 ########################### ADDING IMPORTANT REPOSITORIES #########################
-
 
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
 sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-release-$(rpm -E %fedora).noarch.rpm
@@ -37,11 +32,15 @@ sudo dnf copr enable elxreno/preload -y && sudo dnf install preload -y
 systemctl enable preload
 
 
-########################### REINSTALLING GNOME => flatpack APPS #########################
+########################### Adding Brave :D #########################
 
-sudo dnf -yq erase *libreoffice* gnome-boxes gnome-calculator gnome-characters gnome-calendar gnome-contacts gnome-clocks gnome-connections gnome-maps gnome-weather baobab
+sudo dnf install dnf-plugins-core
 
-flatpak install flathub -y org.libreoffice.LibreOffice org.gnome.Boxes org.gnome.Calculator org.gnome.Characters org.gnome.Calendar org.gnome.Contacts org.gnome.clocks org.gnome.Connections org.gnome.Maps org.gnome.Weather org.gnome.baobab
+sudo dnf config-manager --add-repo https://brave-browser-rpm-release.s3.brave.com/x86_64/
+
+sudo rpm --import https://brave-browser-rpm-release.s3.brave.com/brave-core.asc
+
+sudo dnf install brave-browser
 
 ########################### FINAL INIT STEPS #########################
 
@@ -51,18 +50,16 @@ sudo dnf groupupdate multimedia --setop="install_weak_deps=False" --exclude=Pack
 
 sudo dnf groupupdate sound-and-video
 
+########################### PLEASE DNF UPDATE NOW ONCE #########################
+
+sudo dnf update
+
 =====> TIPS:
 > download extension manager
 > download some cool extensions too
 
 ########################### COMPELETION #########################
 
-now reboot 
-
-sudo dnf groupupdate core
-sudo dnf update
 sudo dnf autoremove
-sudo dnf cleanall
 
 now reboot 
-
