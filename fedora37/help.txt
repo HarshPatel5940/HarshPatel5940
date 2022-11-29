@@ -56,9 +56,10 @@ sudo dnf update
 
 =====> TIPS:
 > download some cool extensions too
+> https://christitus.com/linux-security-mistakes/
+> Learn about flatpacks and flatseal - dont be an idiot
 
 ########################### COMPELETION #########################
 
 sudo dnf autoremove
-
 now reboot 
