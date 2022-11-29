@@ -112,8 +112,6 @@ format = '\[[$symbol($version)(\($switch_indicator$switch_name\))]($style)\]'
 [openstack]
 format = '\[[$symbol$cloud(\($project\))]($style)\]'
 
-
-
 [perl]
 format = '\[[$symbol($version)]($style)\]'
 
@@ -148,7 +146,7 @@ format = '\[[$symbol($version)]($style)\]'
 format = '\[[$symbol$environment]($style)\]'
 
 [sudo]
-format = '\[[as $symbol]\] '
+format = '\[[as $symbol]\]'
 
 [swift]
 format = '\[[$symbol($version)]($style)\]'
@@ -160,7 +158,7 @@ format = '\[[$symbol$workspace]($style)\]'
 format = '\[[$time]($style)\]'
 
 [username]
-format = '\[[$user]($style)\] '
+format = '\[[$user]($style)\]'
 
 [vagrant]
 format = '\[[$symbol($version)]($style)\]'
