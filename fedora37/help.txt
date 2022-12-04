@@ -31,6 +31,9 @@ sudo dnf install https://download1.rpmfusion.org/nonfree/fedora/rpmfusion-nonfre
 sudo dnf copr enable elxreno/preload -y && sudo dnf install preload -y
 systemctl enable preload
 
+sudo dnf install powertop tlp
+sudo systemctl enable tlp
+
 
 ########################### Adding Brave :D #########################
 
@@ -44,7 +47,7 @@ sudo dnf install brave-browser
 
 ########################### FINAL INIT STEPS #########################
 
-sudo dnf install dnfdragora gparted chrome-gnome-shell gnome-extensions-app gnome-tweak-tool
+sudo dnf install dnfdragora gparted gnome-extensions-app gnome-tweak-tool
 
 sudo dnf groupupdate multimedia --setop="install_weak_deps=False" --exclude=PackageKit-gstreamer-plugin
 
