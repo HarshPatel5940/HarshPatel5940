@@ -10,7 +10,7 @@
   - Software Freak & Tech Enthusiast
   - Interested in backend development
   - *Hobbies: Listening Music and exploring the tech world*
-  - *Languages: Python & Typescript*
+  - *Languages: Python, javascript & Typescript*
  
 
 ---
