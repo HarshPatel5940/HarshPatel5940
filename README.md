@@ -3,7 +3,7 @@
  <h4 align="center">  Studying at SRM | Btech Cse - Cloud Computing | 2026 Batch </h4>
  
  ---
- ### ✌️ Fun Things About Me
+ ## ✌️ Fun Things About Me
  
   - 18 y/o 
   - **Discord Bot Developer**
@@ -14,31 +14,50 @@
  
 
 ---
-### 🔥 Cool Projects 
+## 🔥 Cool Projects 
  
   - [**Discord Helper Bot**](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel.
-  - [**Express Todo App**](https://github.com/HarshPatel5940/TodoApp) is a fun project/task given by [my club](https://github.com/srm-kzilla) so i can learn more about API's and the world of backend development
+  - I Love to learn and make API's and play with the Backend, so here are some Repo's me practicing About API's
+     - [**Pet Store API**](https://github.com/HarshPatel5940/pet-store-api) is a fun task given by gdsc so i can practice and showcase my skills
+     - [**Express Todo App**](https://github.com/HarshPatel5940/TodoApp) is a fun project/task in javascript given by [my club](https://github.com/srm-kzilla) so i can learn more about API's and the world of backend development.
 
 --- 
-### 🔗 Social Links 
+## 🔗 Socials 
 
-- Github Profile Views: ![](https://komarev.com/ghpvc/?username=HarshPatel5940&label=&color=green) 
+![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile+Views&color=green) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshPatel5940)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HarshPatel5940) 
+
+
+- **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940) ➡️ [Check My Gig](https://www.fiverr.com/share/rprG0j)
 - Github Organisation: [ProgrammingNotCoding](https://github.com/ProgrammingNotCoding) - for private projects
-- Discord Profile: [HarshPatel5940#3210](https://discord.com/users/448740493468106753) 
-- Twitter Profile: [HarshPatel5940](https://twitter.com/intent/follow?screen_name=HarshPatel5940)
-- **Fiver Profile: [HarshPatel5940](https://fiver.com/HarshPatel5940) ➡️ [Check My Gig](https://www.fiverr.com/share/rprG0j)**
- 
+
 ---
 <details>
-<summary>📊 GitHub Stats </summary>
-
-<a href="yes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=HarshPatel5940&theme=github_dark&show_icons=true&count_private=true" />
-</a>
-<a href="again, yes">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940"/>
-</a>
+<summary> <h3> 📊 GitHub Stats </h3> </summary> 
  
- </details>
+![](https://github-readme-stats.vercel.app/api?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</details> 
+
+---
+<details>
+<summary> <h3> 💻 Tech Stack </h3> </summary> 
+
+![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Javascript](https://img.shields.io/badge/Javascript-%23007ACC.svg?style=for-the-badge&logo=Javascript&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
  
 ---
