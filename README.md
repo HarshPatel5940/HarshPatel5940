@@ -24,10 +24,9 @@
 --- 
 ## 🔗 Socials 
 
-![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&labe<h3> 📊 GitHub Stats </h3>l=Profile+Views&color=green) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/448740493468106753)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshPatel5940)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HarshPatel5940) 
-
 
 - **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940) ➡️ [Check My Gig](https://www.fiverr.com/share/rprG0j)
 - Github Organisation: [ProgrammingNotCoding](https://github.com/ProgrammingNotCoding) - for private projects
@@ -50,14 +49,13 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
  
 ---
-
 <details>
 <summary> <h3> 📊 GitHub Stats </h3> </summary> 
  
 ![](https://github-readme-stats.vercel.app/api?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 </details> 
 
 ---
+![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile+Views&color=green) 
