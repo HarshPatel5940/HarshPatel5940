@@ -33,18 +33,8 @@
 - Github Organisation: [ProgrammingNotCoding](https://github.com/ProgrammingNotCoding) - for private projects
 
 ---
-<details>
-<summary> <h3> 📊 GitHub Stats </h3> </summary> 
- 
-![](https://github-readme-stats.vercel.app/api?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</details> 
-
----
-<details>
-<summary> <h3> 💻 Tech Stack </h3> </summary> 
+## 💻 Tech Stack
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -56,8 +46,18 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
  
+---
+---
+<details>
+<summary> <h3> 📊 GitHub Stats </h3> </summary> 
+ 
+![](https://github-readme-stats.vercel.app/api?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</details> 
+
 ---
