@@ -24,7 +24,7 @@
 --- 
 ## 🔗 Socials 
 
-![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile+Views&color=green) 
+![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&labe<h3> 📊 GitHub Stats </h3>l=Profile+Views&color=green) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshPatel5940)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HarshPatel5940) 
 
@@ -50,7 +50,7 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
  
 ---
----
+
 <details>
 <summary> <h3> 📊 GitHub Stats </h3> </summary> 
  
