@@ -46,16 +46,13 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) 
+![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
  
 ---
 <details>
 <summary> <h3> 📊 GitHub Stats </h3> </summary> 
- 
-![](https://github-readme-stats.vercel.app/api?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true) 
+  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarshPatel5940&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</details> 
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile+Views&color=green) 
