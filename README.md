@@ -1,17 +1,15 @@
  <h1 align="center"> Hello there! I am Harsh Patel ✌️</h1>
- <h4 align="center">  Student • Programmer • Discord Bot Developer • Python & Typescript • Free-Lancer </h4>
- <h4 align="center">  Studying at SRM | Btech Cse - Cloud Computing | 2026 Batch </h4>
+ <h4 align="center">  Student • Programmer • Discord Bot & Backend Developer • FreeLancer </h4>
  
  ---
  ## ✌️ Fun Things About Me
  
-  - 18 y/o 
-  - **Discord Bot Developer**
+  - Studying Btech CSE w/s in Cloud Computing @ SRM'26 
+  - **Discord Bot Developer & Backend Developer**
   - Software Freak & Tech Enthusiast
-  - Interested in backend development
+  - Interested in Full Stack web development
   - *Hobbies: Listening Music and exploring the tech world*
-  - *Languages: Python, javascript & Typescript*
- 
+  - *Languages: Python, javascript, Typescript, c, c++*
 
 ---
 ## 🔥 Cool Projects 
