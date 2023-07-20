@@ -15,9 +15,10 @@
 ## 🔥 Cool Projects 
  
   - [**Discord Helper Bot**](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel.
-  - I Love to learn and make API's and play with the Backend, so here are some Repo's me practicing About API's
-     - [**Pet Store API**](https://github.com/HarshPatel5940/pet-store-api) is a fun task given by gdsc so i can practice and showcase my skills
-     - [**Express Todo App**](https://github.com/HarshPatel5940/TodoApp) is a fun project/task in javascript given by [my club](https://github.com/srm-kzilla) so i can learn more about API's and the world of backend development.
+  - I Love to learn and make API's and play with the Backend, so here are some Repo's me practising About APIs
+     - [**NestJs API**](https://github.com/HarshPatel5940/learning-nestjs) is a Passion Project for exploring the NestJS world and production-ready framework
+     - [**Pet Store API**](https://github.com/HarshPatel5940/pet-store-api) is a task given by GDSC club so i can practice and showcase my skills
+     - [**Express Todo App**](https://github.com/HarshPatel5940/TodoApp) is a project/task in javascript given by [my club 💖](https://github.com/srm-kzilla) so i can learn more about API's and the world of backend development.
 
 --- 
 ## 🔗 Socials 
