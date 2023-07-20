@@ -8,8 +8,8 @@
   - **Discord Bot Developer & Backend Developer**
   - Software Freak & Tech Enthusiast
   - Interested in Full Stack web development
-  - *Hobbies: Listening Music and exploring the tech world*
-  - *Languages: Python, javascript, Typescript, c, c++*
+  - *Hobbies: Listening to Music and exploring the tech world*
+  - *Languages: Typescript, Javascript, Python, C, C++*
 
 ---
 ## 🔥 Cool Projects 
