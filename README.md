@@ -15,7 +15,7 @@
 ## 🔥 Cool Projects 
  
   - [**Discord Helper Bot**](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel.
-  - I Love to learn and make API's and play with the Backend so here [**EzMs**](https://github.com/HarshPatel5940/EzMs-Backend) is a Passion Project for exploring the NestJS world and production-ready framework
+  - [**EzMs**](https://github.com/HarshPatel5940/EzMs-Backend) is a Passion Project for exploring the NestJS world and production-ready framework
 
 --- 
 ## 🔗 Socials 
