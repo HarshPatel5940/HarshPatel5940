@@ -15,17 +15,13 @@
 ## 🔥 Cool Projects 
  
   - [**Discord Helper Bot**](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel.
-  - I Love to learn and make API's and play with the Backend, so here are some Repo's me practising About APIs
-     - [**EzMz**](https://github.com/HarshPatel5940/EzMs-Backend) is a Passion Project for exploring the NestJS world and production-ready framework
-     - [**Pet Store API**](https://github.com/HarshPatel5940/pet-store-api) is a task given by GDSC club so i can practice and showcase my skills
-     - [**Express Todo App**](https://github.com/HarshPatel5940/TodoApp) is a project/task in javascript given by [my club 💖](https://github.com/srm-kzilla) so i can learn more about API's and the world of backend development.
+  - I Love to learn and make API's and play with the Backend so here [**EzMs**](https://github.com/HarshPatel5940/EzMs-Backend) is a Passion Project for exploring the NestJS world and production-ready framework
 
 --- 
 ## 🔗 Socials 
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/448740493468106753)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshPatel5940)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/HarshPatel5940) 
 
 - **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940) ➡️ [Check My Gig](https://www.fiverr.com/share/rprG0j)
 - Github Organisation: [ProgrammingNotCoding](https://github.com/ProgrammingNotCoding) - for private projects
