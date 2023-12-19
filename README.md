@@ -13,17 +13,19 @@
 
 ---
 ## 🔥 Cool Projects 
- 
-  - [**Discord Helper Bot**](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel.
-  - [**EzMs**](https://github.com/HarshPatel5940/EzMs-Backend) is a Passion Project for exploring the NestJS world and production-ready framework
+ Projects I have done
+  - [**EzMs Backend**](https://github.com/HarshPatel5940/EzMs-Backend) is an API for Content Managment System and is a Passion Project for exploring the NestJS world.
+  - [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel.
+    
+Projects I am currently working on
+ - [EzMs FrontEnd](https://github.com/HarshPatel5940/EzMs-Frontend) is an cool FE for my CMS. [ WIP ]
 
 --- 
 ## 🔗 Socials 
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/448740493468106753)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/HarshPatel5940)
-
-- **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940) ➡️ [Check My Gig](https://www.fiverr.com/share/rprG0j)
+- Linkedin Profile: [HarshPatel5940](https://linkedin.com/in/HarshPatel5940)
+- Discord Profile: [HarshPatel5940](https://discord.com/users/448740493468106753)
+- **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940)
 - Github Organisation: [ProgrammingNotCoding](https://github.com/ProgrammingNotCoding) - for private projects
 
 ---
