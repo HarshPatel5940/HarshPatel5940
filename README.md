@@ -9,7 +9,6 @@
   - Software Freak & Tech Enthusiast
   - Interested in Full Stack web development
   - *Hobbies: Listening to Music and exploring the tech world*
-  - *Languages: Typescript, Javascript, Python, C, C++*
 
 ---
 ## 🔥 Cool Projects 
@@ -29,6 +28,12 @@ Projects I am currently working on
 - Github Organisation: [ProgrammingNotCoding](https://github.com/ProgrammingNotCoding) - for private projects
 
 ---
+<details>
+<summary> 📊 GitHub Stats </summary> 
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)
+
+---
 
 ## 💻 Tech Stack
 
@@ -45,12 +50,6 @@ Projects I am currently working on
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
- 
----
-<details>
-<summary> <h3> 📊 GitHub Stats </h3> </summary> 
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)
 
 ---
 ![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile+Views&color=green) 
