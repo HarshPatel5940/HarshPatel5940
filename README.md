@@ -1,5 +1,5 @@
  <h1 align="center"> Hello there! I am Harsh Patel ✌️</h1>
- <h4 align="center">  Student • Programmer • Discord Bot & Backend Developer • FreeLancer </h4>
+ <h4 align="center"> Student • Programmer • Discord Bot & Backend Developer • FreeLancer </h4>
  
  ---
  ## ✌️ Fun Things About Me
@@ -14,7 +14,7 @@
 ## 🔥 Cool Projects 
  Projects I have done
   - [**EzMs Backend**](https://github.com/HarshPatel5940/EzMs-Backend) is an API for Content Managment System and is a Passion Project for exploring the NestJS world.
-  - [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot in Typescript by Harsh Patel.
+  - [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot. There are multiple other bot built for client's in my personal repo's 
     
 Projects I am currently working on
  - [EzMs FrontEnd](https://github.com/HarshPatel5940/EzMs-Frontend) is an cool FE for my CMS. [ WIP ]
