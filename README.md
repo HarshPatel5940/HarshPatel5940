@@ -25,7 +25,6 @@ Projects I am currently working on
 - Linkedin Profile: [HarshPatel5940](https://linkedin.com/in/HarshPatel5940)
 - Discord Profile: [HarshPatel5940](https://discord.com/users/448740493468106753)
 - **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940)
-- Github Organisation: [ProgrammingNotCoding](https://github.com/ProgrammingNotCoding) - for private projects
 
 ---
 <details>
