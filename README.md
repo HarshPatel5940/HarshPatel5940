@@ -14,10 +14,11 @@
 ## 🔥 Cool Projects 
  Projects I have done
   - [**EzMs Backend**](https://github.com/HarshPatel5940/EzMs-Backend) is an API for Content Managment System and is a Passion Project for exploring the NestJS world.
+  - [EzMs FrontEnd](https://github.com/HarshPatel5940/EzMs-Frontend) is an cool FE for my CMS. Exploring the realm of frontend development.
   - [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot. There are multiple other bot built for client's in my personal repo's 
     
 Projects I am currently working on
- - [EzMs FrontEnd](https://github.com/HarshPatel5940/EzMs-Frontend) is an cool FE for my CMS. [ WIP ]
+ -  Coming Soon...
 
 --- 
 ## 🔗 Socials 
