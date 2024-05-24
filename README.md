@@ -18,7 +18,7 @@
   - [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot. There are multiple other bot built for client's in my personal repo's 
     
 Projects I am currently working on
- -  [Code Flick](https:github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.
+ -  [Code Flick](https://github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.
 
 --- 
 ## 🔗 Socials 
