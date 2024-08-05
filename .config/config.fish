@@ -72,10 +72,6 @@ alias cat bat
 alias bx bunx
 alias px "pnpm dlx"
 
-alias ls "exa -l -g --group-directories-first --icons --git"
-alias la "exa -l -a -g --group-directories-first --icons --git"
-alias tree "exa -1 --group-directories-first --icons --tree --git-ignore"
-
 function ll
     set loc (walk --icons $argv); and cd $loc
     clear
@@ -99,7 +95,6 @@ if not type code >/dev/null 2>&1
 else
     set -x code /usr/local/bin/code
 end
-
 
 function code -d "open vscode"
     if test -z $argv[1]
@@ -143,7 +138,7 @@ function emt -d "Empty trash"
 end
 
 function free -d "free up a tcp port"
-    kill $(lsof -i :8080 | awk 'NR==2 {print $2}')
+    kill $(lsof -i $argv[1] | awk 'NR==2 {print $2}')
 end
 
 function ltx -d "local tunnel exec"
