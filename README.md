@@ -28,28 +28,29 @@ Projects I am currently working on
 - **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940)
 
 ---
-<details>
-<summary> 📊 GitHub Stats </summary> 
-  
-![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)
-
----
-
 ## 💻 Tech Stack
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/go-%23007ACC.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Nest.js](https://img.shields.io/badge/Nest.js-%23404d59.svg?style=for-the-badge&logo=nestjs&logoColor=%2361DAFB) 
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express) 
 ![Javascript](https://img.shields.io/badge/Javascript-%23007ACC.svg?style=for-the-badge&logo=Javascript&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 ---
+<details>
+<summary> 📊 GitHub Stats </summary> </br>
+
 ![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile+Views&color=green) 
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=HarshPatel5940&theme=dark&hide_border=false)
+
+</details>
+
+---
