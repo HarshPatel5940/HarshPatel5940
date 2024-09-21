@@ -1,5 +1,5 @@
  <h1 align="center"> Hello there! I am Harsh Patel ✌️</h1>
- <h4 align="center"> Student • Programmer • Discord Bot & Backend Developer • FreeLancer </h4>
+ <h4 align="center"> Student • Full Stack Developer • FreeLancer </h4>
  
  ---
  ## ✌️ Fun Things About Me
