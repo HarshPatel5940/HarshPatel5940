@@ -5,9 +5,9 @@
  ## ✌️ Fun Things About Me
  
   - Studying Btech CSE w/s in Cloud Computing @ SRM'26 
-  - **Discord Bot Developer & Backend Developer**
+  - **Full Stack Developer**
   - Software Freak & Tech Enthusiast
-  - Interested in Full Stack web development
+  - Someone who loves to make bots :D
   - *Hobbies: Listening to Music and exploring the tech world*
 
 ---
