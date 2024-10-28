@@ -5,7 +5,7 @@
  ## ✌️ Fun Things About Me
  
   - Studying Btech CSE w/s in Cloud Computing @ SRM'26 
-  - **Full Stack Developer**
+  - **Developer and Tinkerer**
   - Software Freak & Tech Enthusiast
   - Someone who loves to make bots :D
   - *Hobbies: Listening to Music and exploring the tech world*
