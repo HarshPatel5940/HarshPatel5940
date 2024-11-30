@@ -18,7 +18,7 @@
   - [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot. There are multiple other bot built for client's in my personal repo's 
     
 Projects I am currently working on
- -  [Code Flick](https://github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.
+ -  [CodeFlick](https://github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.
 
 --- 
 ## 🔗 Socials 
@@ -28,6 +28,9 @@ Projects I am currently working on
 - **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940)
 
 ---
+<details>
+<summary> Maybe usefull Stats </summary> </br>
+
 ## 💻 Tech Stack
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -42,10 +45,6 @@ Projects I am currently working on
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
-
----
-<details>
-<summary> 📊 GitHub Stats </summary> </br>
 
 ![Profile views](https://komarev.com/ghpvc/?username=HarshPatel5940&label=Profile+Views&color=green) 
 
