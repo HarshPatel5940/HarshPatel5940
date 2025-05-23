@@ -5,10 +5,10 @@
  ## ✌️ Fun Things About Me
  
   - Studying Btech CSE w/s in Cloud Computing @ SRM'26 
-  - **Developer and Tinkerer**
   - Software Freak & Tech Enthusiast
-  - Reminding People To Program Not Just Code - [ProgrammingNotJustCoding](https://github.com/ProgrammingNotJustCoding)
   - *Hobbies: Listening to Music and exploring the tech world*
+  - Reminding People To Think beyond Syntax - [ProgrammingNotJustCoding](https://github.com/ProgrammingNotJustCoding)
+  - Links: [harshnpatel.in](https://harshnpatel.in)  | [Linkedin](https://linkedin.com/in/HarshPatel5940)| [Fiverr - HarshPatel5940](https://fiverr.com/HarshPatel5940) | [X / Twitter](https://x.com/harshpatel5940)
 
 ---
 ## 🔥 Cool Projects 
@@ -16,21 +16,14 @@
   - [**EzMs Backend**](https://github.com/HarshPatel5940/EzMs-Backend) is an API for Content Managment System and is a Passion Project for exploring the NestJS world.
   - [EzMs FrontEnd](https://github.com/HarshPatel5940/EzMs-Frontend) is an cool FE for my CMS. Exploring the realm of frontend development.
   - [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot. There are multiple other bot built for client's in my personal repo's 
-    - > Also made a lot of other projects for my client, some of which are open source and some of them are not.
+    - > Also made a lot of other bot projects for my client, some of which are open source and some of them are not.
+  -  [CodeFlick](https://github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.
     
 Projects I am currently working on
- -  [CodeFlick](https://github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.
  -  [Marai](https://github.com/ProgrammingNotJustCoding/marai) - Legal Workflow and Contract Lifecycle Management System.
  -  [Jiva](https://github.com/ProgrammingNotJustCoding/jiva) - Jiva is a productivity and safety management app for coal mines.
 
 --- 
-## 🔗 Socials 
-
-- Linkedin Profile: [HarshPatel5940](https://linkedin.com/in/HarshPatel5940)
-- Discord Profile: [HarshPatel5940](https://discord.com/users/448740493468106753)
-- **Fiver Profile**: [HarshPatel5940](https://fiver.com/HarshPatel5940)
-
----
 <details>
 <summary> Maybe usefull Stats </summary> </br>
 
