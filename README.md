@@ -8,7 +8,7 @@
   - Software Freak & Tech Enthusiast
   - *Hobbies: Listening to Music and exploring the tech world*
   - Reminding People To Think beyond Syntax - [ProgrammingNotJustCoding](https://github.com/ProgrammingNotJustCoding)
-  - Links: [harshnpatel.in](https://harshnpatel.in)  | [Linkedin](https://linkedin.com/in/HarshPatel5940)| [Fiverr - HarshPatel5940](https://fiverr.com/HarshPatel5940) | [X / Twitter](https://x.com/harshpatel5940)
+  - Links: [harshnpatel.in](https://harshnpatel.in)  | [Fiverr](https://fiverr.com/HarshPatel5940) | [X / Twitter](https://x.com/harshpatel5940) | [Linkedin](https://linkedin.com/in/HarshPatel5940)
 
 ---
 ## 🔥 Cool Projects 
