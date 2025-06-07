@@ -13,11 +13,11 @@
 ---
 ## 🔥 Cool Projects 
  Projects I have done
+  -  [CodeFlick](https://github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.
   - [**EzMs Backend**](https://github.com/HarshPatel5940/EzMs-Backend) is an API for Content Managment System and is a Passion Project for exploring the NestJS world.
   - [EzMs FrontEnd](https://github.com/HarshPatel5940/EzMs-Frontend) is an cool FE for my CMS. Exploring the realm of frontend development.
-  - [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot. There are multiple other bot built for client's in my personal repo's 
+  - [DHB-V2](https://github.com/HarshPatel5940/dhb-v2) made after [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot) is a Multi-Utility Bot. There are multiple other bot built for client's in my personal repo's 
     - > Also made a lot of other bot projects for my client, some of which are open source and some of them are not.
-  -  [CodeFlick](https://github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.
     
 Projects I am currently working on
  -  [Marai](https://github.com/ProgrammingNotJustCoding/marai) - Legal Workflow and Contract Lifecycle Management System.
