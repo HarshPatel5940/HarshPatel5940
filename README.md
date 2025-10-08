@@ -23,7 +23,7 @@ Done:
 
 
 Working On: (as of 2/10/25)
-- [Hermit](https://github.com/harshpatel5940/hermit) - Targetted Web Crawler and Scrapper to gain information from data.
+- [Hermit](https://github.com/harshpatel5940/hermit) - An intelligent, self-improving targetted web crawler and archiver that can power custom-trained AI's.
 - [Verse](https://github.com/ProgrammingNotJustCoding/verse) (planning) - Fog enabled voice transcriptions and summaries.
 
 
