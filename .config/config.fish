@@ -9,8 +9,9 @@ fish_add_path /opt/homebrew/bin
 fish_add_path /opt/homebrew/opt/ruby/bin
 fish_add_path /opt/homebrew/sbin
 
+
 # misc
-fish_add_path $HOME/.gem/ruby/3.3.0/bin
+fish_add_path /opt/homebrew/opt/ruby/bin
 fish_add_path $HOME/.local/bin
 fish_add_path $HOME/.spicetify
 fish_add_path $HOME/.detaspace/bin
@@ -21,23 +22,28 @@ function mysql-start
 end
 
 function psql-start
-  /opt/homebrew/opt/postgresql@14/bin/postgres -D /opt/homebrew/var/postgresql@14 
+  /opt/homebrew/opt/postgresql@16/bin/postgres -D /opt/homebrew/var/postgresql@14 
 end
 
 # docker
 set -x docker /usr/local/bin/docker 
 
+alias bench "uvx --from frappe-bench bench"
+
 # aws cli 
 alias aws /usr/local/bin/aws 
+
+
+# bun 
+fish_add_path $HOME/.bun/bin
 
 # rust
 fish_add_path $HOME/.cargo/bin
 
-# flutter
-set -x CHROME_EXECUTABLE "/Applications/Arc.app/Contents/MacOS/Arc"
-
 fish_add_path $HOME/.flutter/bin
 fish_add_path $HOME/.pub-cache/bin
+
+fish_add_path /opt/homebrew/opt/postgresql@17/bin
 
 # golang
 set -x GOPATH $HOME/.go
@@ -85,6 +91,7 @@ alias gc "git commit -m"
 alias gc-undo "git reset --soft HEAD~"
 alias ga "git add"
 alias gp "git push"
+alias gp-su "git push --set-upstream origin HEAD"
 alias co "git checkout"
 alias pull "git pull"
 
