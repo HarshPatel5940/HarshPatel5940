@@ -9,10 +9,11 @@
 
 ---
 ### TL;DR?
-- FOSS Enthusiast • Developer • FreeLancer
-- Btech CSE w/s in Cloud Computing @ SRM'26
+- FOSS Enthusiast • Developer • Co-Founder @ [LimeGreenStudios](https://limegreen.studio)
 - Reminding People To Think beyond Syntax - [ProgrammingNotJustCoding](https://github.com/ProgrammingNotJustCoding)
 - Part of lovely clubs and communities, guiding students and learning few things myself as well.
+- Btech CSE w/s in Cloud Computing @ SRM'26
+- Mostly build around Go and Ts cause its simple and typesafe :)
 
 ---
 ### 🔥 Cool Projects 
@@ -24,11 +25,12 @@ Done:
 - [OhMyLife](https://github.com/HarshPatel5940/ohmylife) is an base infrastructure to manage your agency which is easy to self-host and build upon.
 - [Verse](https://github.com/ProgrammingNotJustCoding/verse) (MVP ready) - Fog enabled voice transcriptions and summaries for meetings.
 
-Working On: (as of 28/12/25)
+Working On: (as of 13/2/26):
 - Some cool projects, i can't speek publically of, cause actually pay me :)
-- [Hermit](https://github.com/harshpatel5940/hermit) - An intelligent, self-improving targetted web crawler and archiver that can power custom-trained AI's.
+- **[stash](https://github.com/HarshPatel5940/stash)** - working on v2 which has TUI and feels better.
+- [Hermit](https://github.com/harshpatel5940/hermit) (inactive) - An intelligent, self-improving targetted web crawler and archiver that can power custom-trained AI's.
 
-Project's i think have potential yet not working (as of 23/11/25):
-- [Marai](https://github.com/ProgrammingNotJustCoding/marai) (redoing) - Legal Workflow and Contract Lifecycle Management System. 
+Project's i think have potential yet not working on (as of 13/2/26):
+- [Marai](https://github.com/ProgrammingNotJustCoding/marai) (check other branches) - Legal Workflow and Contract Lifecycle Management System. 
 - [Jiva](https://github.com/ProgrammingNotJustCoding/jiva) (MVP ready) - Jiva is a productivity and safety management app for coal mines.
 - [NoCapRide](https://github.com/ProgrammingNotJustCoding/NoCapRide) - Incentive model for NammaYatri drivers powered by live data forecasting and surge price handling.
