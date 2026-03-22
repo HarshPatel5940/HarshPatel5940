@@ -18,14 +18,13 @@
 ---
 ### 🔥 Cool Projects 
 Done:
-- **[stash](https://github.com/HarshPatel5940/stash)** Its a fun go cli where you Stash your Mac, restore anywhere quickly!
 - [CodeFlick](https://github.com/HarshPatel5940/CodeFlick) is an Open-source alternative of PasteBin made with golang to experience a new paradigm.
 - [EzMs](https://github.com/HarshPatel5940/EzMs) is an Simple and Robust Content Management System.
 - [DHB-V2](https://github.com/HarshPatel5940/dhb-v2) a fun multi-utility discord bot was made after [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot). (*Also made a lot of other bot projects for my client, some of which are open source and some of them are not*)
 - [OhMyLife](https://github.com/HarshPatel5940/ohmylife) is an base infrastructure to manage your agency which is easy to self-host and build upon.
 - [Verse](https://github.com/ProgrammingNotJustCoding/verse) (MVP ready) - Fog enabled voice transcriptions and summaries for meetings.
 
-Working On: (as of 13/3/26):
+Working On: (as of 22/3/26):
 - Some cool projects, i can't speek publically of, cause actually pay me :)
 - **[stash](https://github.com/HarshPatel5940/stash)** - planning of improving cloud sync, reminders and more...
 - [nestop](https://github.com/HarshPatel5940/nestop) - made an simple cli to init by nestjs projects. needs a lot of stuff so planning needed.
