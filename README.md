@@ -23,14 +23,14 @@ Done:
 - [DHB-V2](https://github.com/HarshPatel5940/dhb-v2) a fun multi-utility discord bot was made after [Discord Helper Bot](https://github.com/HarshPatel5940/discord-helper-bot). (*Also made a lot of other bot projects for my client, some of which are open source and some of them are not*)
 - [OhMyLife](https://github.com/HarshPatel5940/ohmylife) is an base infrastructure to manage your agency which is easy to self-host and build upon.
 - [Verse](https://github.com/ProgrammingNotJustCoding/verse) (MVP ready) - Fog enabled voice transcriptions and summaries for meetings.
-
-Working On: (as of 22/3/26):
-- Some cool projects, i can't speek publically of, cause actually pay me :)
-- **[stash](https://github.com/HarshPatel5940/stash)** - planning of improving cloud sync, reminders and more...
 - [nestop](https://github.com/HarshPatel5940/nestop) - made an simple cli to init by nestjs projects. needs a lot of stuff so planning needed.
-- [Hermit](https://github.com/harshpatel5940/hermit) (inactive) - An intelligent, self-improving targetted web crawler and archiver that can power custom-trained AI's.
 
-Project's i think have potential yet not working on (as of 13/2/26):
+Working On: (as of 16/8/26):
+- Some cool projects, i can't speek publically of, cause actually pay me :)
+- **[stash](https://github.com/HarshPatel5940/stash)** - planning to do more testing in improving this
+
+Project's i think have potential yet not working on (as of 16/8/26):
 - [Marai](https://github.com/ProgrammingNotJustCoding/marai) (check other branches) - Legal Workflow and Contract Lifecycle Management System. 
 - [Jiva](https://github.com/ProgrammingNotJustCoding/jiva) (MVP ready) - Jiva is a productivity and safety management app for coal mines.
+- [Hermit](https://github.com/harshpatel5940/hermit) - An intelligent, self-improving targetted web crawler and archiver that can power custom-trained AI's.
 - [NoCapRide](https://github.com/ProgrammingNotJustCoding/NoCapRide) - Incentive model for NammaYatri drivers powered by live data forecasting and surge price handling.
